@@ -48,10 +48,23 @@
 ### 📫 Connect With Me
 
 <div align="left">
-  <a href="chetananand1190@gmail.com">
+  <!-- Gmail -->
+  <a href="mailto:chetananand1190@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/chetan-anand-66b04a33a">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chetan-anand-66b04a33a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/mafiaketan28" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/xchetan45/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
